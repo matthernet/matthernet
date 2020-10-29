@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Security researcher with fanaticism of swag events
+Security researcher with fanaticism of swag from events
 
 - 🔭 Interested in Bash, Python and privacy
 
 - ⚡ Fun fact: I like to put stuff inside .sh and automate things
-
 
 <!--
 **matthernet/matthernet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
