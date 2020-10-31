@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Security researcher with fanaticism of swag from events
+Security researcher with fanaticism for swag from events
 
 - 🔭 Interested in Bash, Python and privacy
 
