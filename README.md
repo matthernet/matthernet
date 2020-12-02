@@ -6,6 +6,8 @@ Security researcher with fanaticism for swag from events
 
 - ⚡ Fun fact: I like to put stuff inside .sh and automate things
 
+- 🐦 Twitter [@matthernet](https://twitter.com/matthernet)
+
 <!--
 **matthernet/matthernet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
